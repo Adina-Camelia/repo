@@ -12,3 +12,17 @@ c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.Ass
 c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
 c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
 c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
+D:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+D:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+D:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+d:\ASE\An II\Sem II\PRACTICA\Practica QQInfo\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb

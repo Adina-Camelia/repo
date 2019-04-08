@@ -12,7 +12,7 @@ namespace WebApi
         public DbSet<Species> Species {get; set;}
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost\SQLEXPRESS;Database=Adapost;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLOCALDB;Database=Adapost;Trusted_Connection=True;");
         }
 
         protected override void OnModelCreating (ModelBuilder modelBuilder)

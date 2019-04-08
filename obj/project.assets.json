@@ -12093,30 +12093,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rares\\.nuget\\packages\\": {},
+    "C:\\Users\\Adina\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rares\\Desktop\\Work\\QQInfo\\Dev\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\ASE\\An II\\Sem II\\PRACTICA\\Practica QQInfo\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\rares\\Desktop\\Work\\QQInfo\\Dev\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\rares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rares\\Desktop\\Work\\QQInfo\\Dev\\WebApi\\obj\\",
+      "projectPath": "D:\\ASE\\An II\\Sem II\\PRACTICA\\Practica QQInfo\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\Adina\\.nuget\\packages\\",
+      "outputPath": "D:\\ASE\\An II\\Sem II\\PRACTICA\\Practica QQInfo\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rares\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Adina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
